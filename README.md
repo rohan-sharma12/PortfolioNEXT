@@ -31,7 +31,7 @@ A responsive and dynamic portfolio website built using **NextJS**, **AceternityU
    Clone the project to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/rohan-sharma12/PortfolioNEXT.git
    ```
 
 2. **Navigate to the Project Directory**
